@@ -1,0 +1,3 @@
+
+Codigo:001 | Nombre :Juan | Curso :Ingles | Promedio: 16.5 | Nota 1: 15 | Nota 2: 18 | Nota 3: 19 | Nota 4: 14
+Codigo:002 | Nombre :Jose | Curso :Diseño web | Promedio: 14.75 | Nota 1: 13 | Nota 2: 12 | Nota 3: 17 | Nota 4: 17
